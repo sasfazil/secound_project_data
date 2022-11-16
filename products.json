@@ -1,0 +1,1184 @@
+[
+    {
+        "Id": 1,
+        "Product_Name": "Oneplus_10T",
+        "Product_Id":1,
+        "Category": "Mobiles",
+        "Category_Id": 1,
+        "Color": 
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Moonstone_black",
+                "Image": "https://i.ibb.co/SKdstLh/1-10tblack.webp"
+            },
+            {
+                "Colour_Id":2,
+                "Colour_Name":"Jade_Green",
+                "Image": "https://i.ibb.co/XC63b4v/1-10tgreen.webp"
+            }
+        ],
+        "Capacity":
+        [
+            {
+                "Capacity_Id":1,
+                "Capacity_Ram":8,
+                "Capacity_Storage":128,
+                "Price": 44999
+            },
+            {
+                "Capacity_Id":2,
+                "Capacity_Ram":12,
+                "Capacity_Storage":256,
+                "Price": 49999
+            },
+            {
+                "Capacity_Id":3,
+                "Capacity_Ram":16,
+                "Capacity_Storage":256,
+                "Price": 50999
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "Product_Name": "Oneplus_Nord_2T_5G",
+        "Product_Id":2,
+        "Category": "Mobiles",
+        "Category_Id": 1,
+        "Color": 
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Gray_Shadow",
+                "Image": "https://i.ibb.co/X4JtM1t/1-nord2tblack.webp"
+            },
+            {
+                "Colour_Id":2,
+                "Colour_Name":"Jade_Fog",
+                "Image": "https://i.ibb.co/4MWxmLF/1-nord2tfog.webp"
+            }
+        ],
+        "Capacity":
+        [
+            {
+                "Capacity_Id":1,
+                "Capacity_Ram":8,
+                "Capacity_Storage":128,
+                "Price": 28999
+            },
+            {
+                "Capacity_Id":2,
+                "Capacity_Ram":12,
+                "Capacity_Storage":256,
+                "Price": 33999
+            }
+        ]
+    },
+    {
+        "Id": 3,
+        "Product_Name": "Oneplus_10R_5G",
+        "Product_Id":3,
+        "Category": "Mobiles",
+        "Category_Id": 1,
+        "Color": 
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Sierra_Black",
+                "Image": "https://i.ibb.co/mcpBqGc/1-10rb.webp"
+            },
+            {
+                "Colour_Id":2,
+                "Colour_Name":"Forest_Green",
+                "Image": "https://i.ibb.co/HrH53wb/1-10rg.webp"
+            }
+        ],
+        "Capacity":
+        [
+            {
+                "Capacity_Id":1,
+                "Capacity_Ram":8,
+                "Capacity_Storage":128,
+                "Price": 34999
+            },
+            {
+                "Capacity_Id":2,
+                "Capacity_Ram":12,
+                "Capacity_Storage":256,
+                "Price": 38999
+            }
+        ]
+    },
+    {
+        "Id": 4,
+        "Product_Name": "Oneplus_10_Pro_5G",
+        "Product_Id":4,
+        "Category": "Mobiles",
+        "Category_Id": 1,
+        "Color": 
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Volcanic_Black",
+                "Image": "https://i.ibb.co/Ht04fXh/1-10prob.webp"
+            },
+            {
+                "Colour_Id":2,
+                "Colour_Name":"Emerald_Forest",
+                "Image": "https://i.ibb.co/HdmMbr4/1-10prog.webp"
+            }
+        ],
+        "Capacity":
+        [
+            {
+                "Capacity_Id":1,
+                "Capacity_Ram":8,
+                "Capacity_Storage":128,
+                "Price": 61999
+            },
+            {
+                "Capacity_Id":2,
+                "Capacity_Ram":12,
+                "Capacity_Storage":256,
+                "Price": 66999
+            }
+        ]
+    },
+    {
+        "Id": 5,
+        "Product_Name": "Oneplus_Nord_CE2_5G",
+        "Product_Id":5,
+        "Category": "Mobiles",
+        "Category_Id": 1,
+        "Color": 
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Bahama_Blue",
+                "Image": "https://i.ibb.co/WKZVw9F/1-10nordce2b.png"
+            },
+            {
+                "Colour_Id":2,
+                "Colour_Name":"Gray_Mirror",
+                "Image": "https://i.ibb.co/3MmkBnT/1-10nordce2gray.png"
+            }
+        ],
+        "Capacity":
+        [
+            {
+                "Capacity_Id":1,
+                "Capacity_Ram":6,
+                "Capacity_Storage":128,
+                "Price": 23999
+            },
+            {
+                "Capacity_Id":2,
+                "Capacity_Ram":8,
+                "Capacity_Storage":128,
+                "Price": 24999
+            }
+        ]
+    }, 
+    {
+        "Id": 6,
+        "Product_Name": "Oneplus_9_5G",
+        "Product_Id":6,
+        "Category": "Mobiles",
+        "Category_Id": 1,
+        "Color": 
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Astral_Black",
+                "Image": "https://i.ibb.co/80z7K79/1-9b.png"
+            },
+            {
+                "Colour_Id":2,
+                "Colour_Name":"Arctic_Sky",
+                "Image": "https://i.ibb.co/VD06xB9/1-9sky.png"
+            },
+            {
+                "Colour_Id":3,
+                "Colour_Name":"Winter_Mist",
+                "Image": "https://i.ibb.co/9WnX5xS/1-9winter.png"
+            }
+        ],
+        "Capacity":
+        [
+            {
+                "Capacity_Id":1,
+                "Capacity_Ram":8,
+                "Capacity_Storage":128,
+                "Price": 37999
+            },
+            {
+                "Capacity_Id":2,
+                "Capacity_Ram":12,
+                "Capacity_Storage":256,
+                "Price": 42999
+            }
+        ]
+    },
+    {
+        "Id": 7,
+        "Product_Name": "Oneplus_9R_5G",
+        "Product_Id":7,
+        "Category": "Mobiles",
+        "Category_Id": 1,
+        "Color": 
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Carbon_Black",
+                "Image": "https://i.ibb.co/Kb6dqF0/1-9rb.png"
+            },
+            {
+                "Colour_Id":2,
+                "Colour_Name":"Lake_Blue",
+                "Image": "https://i.ibb.co/PGhNYXq/1-9rblu.png"
+            }
+        ],
+        "Capacity":
+        [
+            {
+                "Capacity_Id":1,
+                "Capacity_Ram":8,
+                "Capacity_Storage":128,
+                "Price": 39999
+            },
+            {
+                "Capacity_Id":2,
+                "Capacity_Ram":12,
+                "Capacity_Storage":256,
+                "Price": 43999
+            }
+        ]
+    },
+    {
+        "Id": 8,
+        "Product_Name": "Oneplus_8_Pro",
+        "Product_Id":8,
+        "Category": "Mobiles",
+        "Category_Id": 1,
+        "Color": 
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Glacial_Green",
+                "Image": "https://i.ibb.co/1sdBLT3/1-8prog.png"
+            },
+            {
+                "Colour_Id":2,
+                "Colour_Name":"Onyx_Black",
+                "Image": "https://i.ibb.co/zHyhFzM/1-8prob.png"
+            },
+            {
+                "Colour_Id":3,
+                "Colour_Name":"Ultramarine_Blue",
+                "Image": "https://i.ibb.co/z8DxWsS/1-8problue.png"
+            }
+        ],
+        "Capacity":
+        [
+            {
+                "Capacity_Id":1,
+                "Capacity_Ram":8,
+                "Capacity_Storage":128,
+                "Price": 48999
+            },
+            {
+                "Capacity_Id":2,
+                "Capacity_Ram":12,
+                "Capacity_Storage":256,
+                "Price": 53999
+            }
+        ]
+    },
+    {
+        "Id": 9,
+        "Product_Name": "Oneplus_8",
+        "Product_Id":9,
+        "Category": "Mobiles",
+        "Category_Id": 1,
+        "Color": 
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Glacial_Green",
+                "Image": "https://i.ibb.co/QYMM3Xn/1-8green.png"
+            },
+            {
+                "Colour_Id":2,
+                "Colour_Name":"Onyx_Black",
+                "Image": "https://i.ibb.co/9gw9815/1-8blac.png"
+            },
+            {
+                "Colour_Id":3,
+                "Colour_Name":"Interstellar_Glow",
+                "Image": "https://i.ibb.co/ZfkBk29/1-8inter.png"
+            }
+        ],
+        "Capacity":
+        [
+            {
+                "Capacity_Id":1,
+                "Capacity_Ram":8,
+                "Capacity_Storage":128,
+                "Price": 44999
+            },
+            {
+                "Capacity_Id":2,
+                "Capacity_Ram":12,
+                "Capacity_Storage":256,
+                "Price": 49999
+            }
+        ]
+    },
+    {
+        "Id": 10,
+        "Product_Name": "Oneplus_7T_Pro",
+        "Product_Id":10,
+        "Category": "Mobiles",
+        "Category_Id": 1,
+        "Color": 
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Haze_Blue",
+                "Image": "https://i.ibb.co/2PDNSMK/1-7tprohaze.webp"
+            }
+        ],
+        "Capacity":
+        [
+            {
+                "Capacity_Id":1,
+                "Capacity_Ram":8,
+                "Capacity_Storage":128,
+                "Price": 53999
+            }
+        ]
+    },
+    {
+        "Id": 11,
+        "Product_Name": "Oneplus_Nord_CE2_Lite_5G",
+        "Product_Id":11,
+        "Category": "Mobiles",
+        "Category_Id": 1,
+        "Color": 
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Blue_Tide",
+                "Image": "https://i.ibb.co/c2TzZmY/1-nordce2liteblue.webp"
+            },
+            {
+                "Colour_Id":2,
+                "Colour_Name":"Black_Dusk",
+                "Image": "https://i.ibb.co/sKjtVbZ/1-nordce2liteblack.webp"
+            }
+        ],
+        "Capacity":
+        [
+            {
+                "Capacity_Id":1,
+                "Capacity_Ram":6,
+                "Capacity_Storage":128,
+                "Price": 18999
+            },
+            {
+                "Capacity_Id":2,
+                "Capacity_Ram":8,
+                "Capacity_Storage":128,
+                "Price": 20999
+            }
+        ]
+    },
+    {
+        "Id": 12,
+        "Product_Name": "Oneplus_9RT_5G",
+        "Product_Id":12,
+        "Category": "Mobiles",
+        "Category_Id": 1,
+        "Color": 
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Nano_Sliver",
+                "Image": "https://i.ibb.co/YytPmzP/1-9rtsilver.png"
+            },
+            {
+                "Colour_Id":2,
+                "Colour_Name":"Hacker_Black",
+                "Image": "https://i.ibb.co/HC8Lx7X/1-9rthacker.png"
+            }
+        ],
+        "Capacity":
+        [
+            {
+                "Capacity_Id":1,
+                "Capacity_Ram":8,
+                "Capacity_Storage":128,
+                "Price": 42999
+            },
+            {
+                "Capacity_Id":2,
+                "Capacity_Ram":12,
+                "Capacity_Storage":256,
+                "Price": 53999
+            }
+        ]
+    },
+    {
+        "Id": 13,
+        "Product_Name": "Oneplus_Nord_2_5G",
+        "Product_Id":13,
+        "Category": "Mobiles",
+        "Category_Id": 1,
+        "Color": 
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Blue_Haze",
+                "Image": "https://i.ibb.co/fNwx0F9/1-nord2blue.png"
+            },
+            {
+                "Colour_Id":2,
+                "Colour_Name":"Gray_Sierra",
+                "Image": "https://i.ibb.co/SVJLNsw/1-nord2gray.png"
+            },
+            {
+                "Colour_Id":3,
+                "Colour_Name":"Green_Woods",
+                "Image": "https://i.ibb.co/pXNmdz2/1-nord2green.png"
+            },
+            {
+                "Colour_Id":4,
+                "Colour_Name":"PAC-MAN",
+                "Image": "https://i.ibb.co/BVb30sy/1-nord2pac.png"
+            }
+        ],
+        "Capacity":
+        [
+            {
+                "Capacity_Id":1,
+                "Capacity_Ram":6,
+                "Capacity_Storage":128,
+                "Price": 27999
+            },
+            {
+                "Capacity_Id":2,
+                "Capacity_Ram":8,
+                "Capacity_Storage":128,
+                "Price": 29999
+            },
+            {
+                "Capacity_Id":3,
+                "Capacity_Ram":12,
+                "Capacity_Storage":256,
+                "Price": 34999
+            }
+        ]
+    },
+    {
+        "Id": 14,
+        "Product_Name": "Oneplus_9_Pro_5G",
+        "Product_Id":14,
+        "Category": "Mobiles",
+        "Category_Id": 1,
+        "Color": 
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Morning_Mist",
+                "Image": "https://i.ibb.co/N3vwrTr/1-9promorn.png"
+            },
+            {
+                "Colour_Id":2,
+                "Colour_Name":"Pine_Green",
+                "Image": "https://i.ibb.co/DGxVb6x/1-9propine.png"
+            },
+            {
+                "Colour_Id":3,
+                "Colour_Name":"Stellar_Black",
+                "Image": "https://i.ibb.co/2y6gpn2/1-9problack.png"
+            }
+        ],
+        "Capacity":
+        [
+            {
+                "Capacity_Id":1,
+                "Capacity_Ram":8,
+                "Capacity_Storage":128,
+                "Price": 49999
+            },
+            {
+                "Capacity_Id":2,
+                "Capacity_Ram":12,
+                "Capacity_Storage":256,
+                "Price": 54999
+            }
+        ]
+    },
+    {
+        "Id": 15,
+        "Product_Name": "Oneplus_8T",
+        "Product_Id":15,
+        "Category": "Mobiles",
+        "Category_Id": 1,
+        "Color": 
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Lunar_Silver",
+                "Image": "https://i.ibb.co/XF27D8D/1-8tsilver.png"
+            },
+            {
+                "Colour_Id":2,
+                "Colour_Name":"Aquamarine_Green",
+                "Image": "https://i.ibb.co/ykwKmFT/1-8tgreen.png"
+            }
+        ],
+        "Capacity":
+        [
+            {
+                "Capacity_Id":1,
+                "Capacity_Ram":8,
+                "Capacity_Storage":128,
+                "Price": 38999
+            }
+        ]
+    },
+    {
+        "Id": 16,
+        "Product_Name": "Oneplus_Y1",
+        "Product_Id":16,
+        "Category": "Tv",
+        "Category_Id": 2,
+        "Image": "https://i.ibb.co/0fKXZ3Y/1-y1.png",
+        "Version":
+        [
+            {
+                "Screen_Id":1,
+                "Screen_Size":32,
+                "Price":14999
+            },
+            {
+                "Screen_Id":2,
+                "Screen_Size":40,
+                "Price":21999
+            },
+            {
+                "Screen_Id":3,
+                "Screen_Size":43,
+                "Price":24999
+            }
+        ]
+    },
+    {
+        "Id": 17,
+        "Product_Name": "Oneplus_Y1S_Pro",
+        "Product_Id":17,
+        "Category": "Tv",
+        "Category_Id": 2,
+        "Image": "https://i.ibb.co/n3CDM3f/1-y1spro.png",
+        "Version":
+        [
+            {
+                "Screen_Id":1,
+                "Screen_Size":43,
+                "Price":29999
+            },
+            {
+                "Screen_Id":2,
+                "Screen_Size":50,
+                "Price":32999
+            }
+        ]
+    },
+    {
+        "Id": 18,
+        "Product_Name": "Oneplus_Y1S",
+        "Product_Id":18,
+        "Category": "Tv",
+        "Category_Id": 2,
+        "Image": "https://i.ibb.co/N3dPyx1/1-y1s.png",
+        "Version":
+        [
+            {
+                "Screen_Id":1,
+                "Screen_Size":32,
+                "Price":15999
+            },
+            {
+                "Screen_Id":2,
+                "Screen_Size":43,
+                "Price":24999
+            }
+        ]
+    },
+    {
+        "Id": 19,
+        "Product_Name": "Oneplus_Y1S_Edge",
+        "Product_Id":19,
+        "Category": "Tv",
+        "Category_Id": 2,
+        "Image": "https://i.ibb.co/vxdkZkg/1-y1sedge.png",
+        "Version":
+        [
+            {
+                "Screen_Id":1,
+                "Screen_Size":32,
+                "Price":16499
+            },
+            {
+                "Screen_Id":2,
+                "Screen_Size":43,
+                "Price":25999
+            }
+        ]
+    },
+    {
+        "Id": 20,
+        "Product_Name": "Oneplus_U1S",
+        "Product_Id":20,
+        "Category": "Tv",
+        "Category_Id": 2,
+        "Image": "https://i.ibb.co/ssHJ4vY/1-u1s.png",
+        "Version":
+        [
+            {
+                "Screen_Id":1,
+                "Screen_Size":50,
+                "Price":37999
+            },
+            {
+                "Screen_Id":2,
+                "Screen_Size":55,
+                "Price":42999
+            },
+            {
+                "Screen_Id":3,
+                "Screen_Size":65,
+                "Price":61999
+            }
+        ]
+    },
+    {
+        "Id": 21,
+        "Product_Name": "Oneplus_Q1",
+        "Product_Id":21,
+        "Category": "Tv",
+        "Category_Id": 2,
+        "Image": "https://i.ibb.co/VwXztGQ/1-q1.png",
+        "Version":
+        [
+            {
+                "Screen_Id":1,
+                "Screen_Size":"55Q1",
+                "Price":62900
+            },
+            {
+                "Screen_Id":2,
+                "Screen_Size":"55Q1Pro",
+                "Price":84900
+            }
+        ]
+    },
+    {
+        "Id": 22,
+        "Product_Name": "Oneplus_TV_Remote_Control",
+        "Product_Id":22,
+        "Category": "Tv",
+        "Category_Id": 2,
+        "Version":
+        [
+            {
+                "Remote_Id":1,
+                "Remote":"Y1",
+                "Price":1000,
+                "Image": "https://i.ibb.co/wdR0k73/1-remotey1.png"
+            },
+            {
+                "Remote_Id":2,
+                "Remote":"All",
+                "Price":1400,
+                "Image": "https://i.ibb.co/DMCBxT3/1-remoteall.png"
+            }
+        ]
+    },
+    {
+        "Id": 23,
+        "Product_Name": "Oneplus_TV_Camera",
+        "Product_Id":23,
+        "Category": "Tv",
+        "Category_Id": 2,
+        "Image": "https://i.ibb.co/7y7YK9N/1-camera.png",
+        "Price":2499
+    },
+    {
+        "Id": 24,
+        "Product_Name": "Oneplus_Nord_Wired_Earphones",
+        "Product_Id":24,
+        "Category": "Audio",
+        "Category_Id": 3,
+        "Image": "https://i.ibb.co/NpjW9nZ/1-nordwired.png",
+        "Price":799
+    },
+    {
+        "Id": 25,
+        "Product_Name": "Oneplus_Nord_Buds_CE",
+        "Product_Id":25,
+        "Category": "Audio",
+        "Category_Id": 3,
+        "Price":799,
+        "Colour":
+            [
+                {
+                    "Colour_Id":1,
+                    "Colour_Name":"Misty_Grey",
+                    "Image": "https://i.ibb.co/b5Vr0MN/1-nordbudscegrey.png"
+                },
+                {
+                    "Colour_Id":2,
+                    "Colour_Name":"Moonlight_White",
+                    "Image": "https://i.ibb.co/P6mnYhJ/1-nordbudscewhite.png"
+                }
+            ]
+    },
+    {
+        "Id": 26,
+        "Product_Name": "Oneplus_Bullets_Wireless_Z2",
+        "Product_Id":26,
+        "Category": "Audio",
+        "Category_Id": 3,
+        "Price":1999,
+        "Colour":
+            [
+                {
+                    "Colour_Id":1,
+                    "Colour_Name":"Acoustic_Red",
+                    "Image": "https://i.ibb.co/6g6mLb8/1-bulletswirelessz2.png"
+                },
+                {
+                    "Colour_Id":2,
+                    "Colour_Name":"Magico_Black",
+                    "Image": "https://i.ibb.co/cxskYdz/1-bulletswirelessz2black.png"
+                },
+                {
+                    "Colour_Id":3,
+                    "Colour_Name":"Beam_Blue",
+                    "Image": "https://i.ibb.co/hL6yg1k/1-bulletswirelessz2blue.png"
+                }
+            ]
+    },
+    {
+        "Id": 27,
+        "Product_Name": "Oneplus_Nord_Buds",
+        "Product_Id":27,
+        "Category": "Audio",
+        "Category_Id": 3,
+        "Price":2799,
+        "Colour":
+            [
+                {
+                    "Colour_Id":1,
+                    "Colour_Name":"Blue_Agate",
+                    "Image": "https://i.ibb.co/BVHRnzS/1-nordbudsagate.png"
+                },
+                {
+                    "Colour_Id":2,
+                    "Colour_Name":"Black_Slate",
+                    "Image": "https://i.ibb.co/ZcfvkXM/1-nordbudsblack.png"
+                },
+                {
+                    "Colour_Id":3,
+                    "Colour_Name":"White_Marble",
+                    "Image": "https://i.ibb.co/qN41qwM/1-nordbudsmarble.png"
+                }
+            ]
+    },
+    {
+        "Id": 28,
+        "Product_Name": "Oneplus_Buds_Pro",
+        "Product_Id":28,
+        "Category": "Audio",
+        "Category_Id": 3,
+        "Price":9990,
+        "Colour":
+            [
+                {
+                    "Colour_Id":1,
+                    "Colour_Name":"Radiant_Silver",
+                    "Image": "https://i.ibb.co/ZVg2M2M/1-budsprosilver.png"
+                },
+                {
+                    "Colour_Id":2,
+                    "Colour_Name":"Matte_Black",
+                    "Image": "https://i.ibb.co/hsdbHRF/1-budsproblack.png"
+                },
+                {
+                    "Colour_Id":3,
+                    "Colour_Name":"Glossy_White",
+                    "Image": "https://i.ibb.co/gTnmmQV/1-budsprowhite.png"
+                }
+            ]
+    },
+    {
+        "Id": 29,
+        "Product_Name": "Oneplus_Buds_Z2",
+        "Product_Id":29,
+        "Category": "Audio",
+        "Category_Id": 3,
+        "Price":4999,
+        "Colour":
+            [
+                {
+                    "Colour_Id":1,
+                    "Colour_Name":"Pearl_White",
+                    "Image": "https://i.ibb.co/P5KBrk0/1-budsz2white.png"
+                },
+                {
+                    "Colour_Id":2,
+                    "Colour_Name":"Obsidain_Black",
+                    "Image": "https://i.ibb.co/L5kv627/1-budsz2black.png"
+                }
+            ]
+    },
+    {
+        "Id": 30,
+        "Product_Name": "Oneplus_Type_C_Bullets_Earphones",
+        "Product_Id":30,
+        "Category": "Audio",
+        "Category_Id": 3,
+        "Image": "https://i.ibb.co/7GYbpmH/1-typecbullets.png",
+        "Price":1299
+    },
+    {
+        "Id": 31,
+        "Product_Name": "Oneplus_Nord_Watch",
+        "Product_Id":31,
+        "Category": "Wearables",
+        "Category_Id": 4,
+        "Price":4990,
+        "Colour":
+            [
+                {
+                    "Colour_Id":1,
+                    "Colour_Name":"Midnight_Black",
+                    "Image": "https://i.ibb.co/92vhk8t/1-nordwatchblack.png"
+                },
+                {
+                    "Colour_Id":2,
+                    "Colour_Name":"Deep_Blue",
+                    "Image": "https://i.ibb.co/18w5tjB/1-nordwatchblue.png"
+                }
+            ]
+    },
+    {
+        "Id": 32,
+        "Product_Name": "Oneplus_Watch",
+        "Product_Id":32,
+        "Category": "Wearables",
+        "Category_Id": 4,
+        "Price":13999,
+        "Colour":
+            [
+                {
+                    "Colour_Id":1,
+                    "Colour_Name":"Midnight_Black",
+                    "Image": "https://i.ibb.co/1JBZM79/1-watchblack.png"
+                },
+                {
+                    "Colour_Id":2,
+                    "Colour_Name":"Moonlight_Silver",
+                    "Image": "https://i.ibb.co/80zDc4R/1-watchsilver.png"
+                }
+            ]
+    },
+    {
+        "Id": 33,
+        "Product_Name": "Oneplus_Band",
+        "Product_Id":33,
+        "Category": "Wearables",
+        "Category_Id": 4,
+        "Image": "https://i.ibb.co/qswJmwD/1-band.png",
+        "Price":1599
+    },
+    {
+        "Id": 34,
+        "Product_Name": "OnePlus_10R_5G_Quantum_Bumper_Case_Pulse",
+        "Product_Id":34,
+        "Category": "Cases_and_Protection",
+        "Category_Id": 5,
+        "Image": "https://i.ibb.co/PhFnct2/1-10rquantum.png",
+        "Price":999
+    },
+    {
+        "Id": 35,
+        "Product_Name": "OnePlus_9RT_5G_Sandstone_Bumper_Case_Sandstone",
+        "Product_Id":35,
+        "Category": "Cases_and_Protection",
+        "Category_Id": 5,
+        "Image": "https://i.ibb.co/M2dyMFW/1-9rtsand.png",
+        "Price":999
+    },
+    {
+        "Id": 36,
+        "Product_Name": "OnePlus_Nord_2_5G_Quantum_Bumper_Case_Doodle_Chaos",
+        "Product_Id":36,
+        "Category": "Cases_and_Protection",
+        "Category_Id": 5,
+        "Image": "https://i.ibb.co/synZwzC/1-nord2quantum.png",
+        "Price":1290
+    },
+    {
+        "Id": 37,
+        "Product_Name": "OnePlus_9_Karbon_Protective_Case",
+        "Product_Id":37,
+        "Category": "Cases_and_Protection",
+        "Category_Id": 5,
+        "Image": "https://i.ibb.co/WKTHGXN/1-9karbon.png",
+        "Price":1790
+    },
+    {
+        "Id": 38,
+        "Product_Name": "OnePlus_9R_Quantum_Bumper_Case_Circuit_Board",
+        "Product_Id":38,
+        "Category": "Cases_and_Protection",
+        "Category_Id": 5,
+        "Image": "https://i.ibb.co/R4zHzBP/1-9rquantum.png",
+        "Price":1490
+    },
+    {
+        "Id": 39,
+        "Product_Name": "OnePlus_10T_5G_Glacier_Mat_Case",
+        "Product_Id":39,
+        "Category": "Cases_and_Protection",
+        "Category_Id": 5,
+        "Image": "https://i.ibb.co/2NYVNwN/1-10tglacier.png",
+        "Price":1499
+    },
+    {
+        "Id": 40,
+        "Product_Name": "OnePlus_10R_5G_3D_Tempered_Glass_Screen_Protector",
+        "Product_Id":40,
+        "Category": "Cases_and_Protection",
+        "Category_Id": 5,
+        "Image": "https://i.ibb.co/s5cGhRL/1-10r3dglass.png",
+        "Price":999
+    },
+    {
+        "Id": 41,
+        "Product_Name": "Red_Cable_Care_Plan",
+        "Product_Id":41,
+        "Category": "Cases_and_Protection",
+        "Category_Id": 5,
+        "Image": "https://i.ibb.co/wJ5XbSY/1-redcablecare.png",
+        "Price":1499
+    },
+    {
+        "Id": 42,
+        "Product_Name": "OnePlus_9_3D_Tempered_Glass_Screen_Protector",
+        "Product_Id":42,
+        "Category": "Cases_and_Protection",
+        "Category_Id": 5,
+        "Image": "https://i.ibb.co/hsk2Sts/1-93dglass.png",
+        "Price":1290
+    },
+    {
+        "Id": 43,
+        "Product_Name": "OnePlus_8T_3D_Tempered_Glass_Screen_Protector_Tempered Glass",
+        "Product_Id":43,
+        "Category": "Cases_and_Protection",
+        "Category_Id": 5,
+        "Image": "https://i.ibb.co/Np0mLCR/1-8t3dglass.png",
+        "Price":1290
+    },
+    {
+        "Id": 44,
+        "Product_Name": "OnePlus_Connect_to_Music_Bundle_Glass",
+        "Product_Id":44,
+        "Category": "Bundles",
+        "Category_Id": 6,
+        "Image": "https://i.ibb.co/HxWJ0Cs/1-connectmusic.png",
+        "Price":949
+    },
+    {
+        "Id": 45,
+        "Product_Name": "OnePlus_Cool_Gaming_Bundle",
+        "Product_Id":45,
+        "Category": "Bundles",
+        "Category_Id": 6,
+        "Image": "https://i.ibb.co/xft3F7y/1-cooler.png",
+        "Price":3699
+    },
+    {
+        "Id": 46,
+        "Product_Name": "OnePlus_Easy_Charging_Bundle",
+        "Product_Id":46,
+        "Category": "Bundles",
+        "Category_Id": 6,
+        "Image": "https://i.ibb.co/W6kLksM/1-easycharge.png",
+        "Price":2299
+    },
+    {
+        "Id": 47,
+        "Product_Name": "OnePlus_9_Pro_Sound_Shield_Bundle",
+        "Product_Id":47,
+        "Category": "Bundles",
+        "Category_Id": 6,
+        "Image": "https://i.ibb.co/4fpGd3K/1-9prosoundshield.png",
+        "Price":2839
+    },
+    {
+        "Id": 48,
+        "Product_Name": "OnePlus_9_Keep_it_Safe_Bundle",
+        "Product_Id":48,
+        "Category": "Bundles",
+        "Category_Id": 6,
+        "Image": "https://i.ibb.co/prpT58G/1-9keepitsafe.png",
+        "Price":3323
+    },
+    {
+        "Id": 49,
+        "Product_Name": "OnePlus_9_Sound_Shield_Bundle",
+        "Product_Id":49,
+        "Category": "Bundles",
+        "Category_Id": 6,
+        "Image": "https://i.ibb.co/4fpGd3K/1-9prosoundshield.png",
+        "Price":4489
+    },
+    {
+        "Id": 50,
+        "Product_Name": "OnePlus_Type_C_to_3.5mm_adapter",
+        "Product_Id":50,
+        "Category": "Power_and_Cables",
+        "Category_Id": 7,
+        "Image": "https://i.ibb.co/wCbMnVm/1-typecadap.png",
+        "Price":390
+    },
+    {
+        "Id": 51,
+        "Product_Name": "OnePlus_SUPERVOOC_Type_C_to_Type_C_Cable",
+        "Product_Id":51,
+        "Category": "Power_and_Cables",
+        "Category_Id": 7,
+        "Image": "https://i.ibb.co/W0pRRcL/1-supervoocctoc.png",
+        "Price":849
+    },
+    {
+        "Id": 52,
+        "Product_Name": "OnePlus_SUPERVOOC_Type_A_to_Type_C_Cable",
+        "Product_Id":52,
+        "Category": "Power_and_Cables",
+        "Category_Id": 7,
+        "Image": "https://i.ibb.co/GxxTbGY/1-supervoocatoc.png",
+        "Price":849
+    },
+    {
+        "Id": 53,
+        "Product_Name": "OnePlus_Warp_Charge_50_Wireless_Charger",
+        "Product_Id":53,
+        "Category": "Power_and_Cables",
+        "Category_Id": 7,
+        "Image": "https://i.ibb.co/6WRzR8D/1-wrap50wireless.png",
+        "Price":3990
+    },
+    {
+        "Id": 54,
+        "Product_Name": "OnePlus_Warp_Charge_65_Power_Adapter",
+        "Product_Id":54,
+        "Category": "Power_and_Cables",
+        "Category_Id": 7,
+        "Image": "https://i.ibb.co/3yyksLP/1-wrap65adap.png",
+        "Price":1990
+    },
+    {
+        "Id": 55,
+        "Product_Name": "OnePlus_Warp_Charge_30_Wireless_Charger",
+        "Product_Id":55,
+        "Category": "Power_and_Cables",
+        "Category_Id": 7,
+        "Image": "https://i.ibb.co/nkPV6CW/1-wrap30wireless.png",
+        "Price":3490
+    },
+    {
+        "Id": 56,
+        "Product_Name": "OnePlus_18W_Freezing_Point_Phone_Cooler_PCV02_Freezing",
+        "Product_Id":56,
+        "Category": "Gear",
+        "Category_Id": 8,
+        "Image": "https://i.ibb.co/9hZYGWT/1-18w.png",
+        "Price":3299
+    },
+    {
+        "Id": 57,
+        "Product_Name": "OnePlus_Nord_Handy_Fanny_Pack",
+        "Product_Id":57,
+        "Category": "Gear",
+        "Category_Id": 8,
+        "Image": "https://i.ibb.co/3F2VhW5/1-nordhandypack.png",
+        "Price":1699
+    },
+    {
+        "Id": 58,
+        "Product_Name": "OnePlus_Buds_Z_Protective_Case",
+        "Product_Id":58,
+        "Category": "Gear",
+        "Category_Id": 8,
+        "Image": "https://i.ibb.co/gDMNj4S/1-zprocase.png",
+        "Price":999
+    },
+    {
+        "Id": 59,
+        "Product_Name": "OnePlus_Gaming_Triggers",
+        "Product_Id":59,
+        "Category": "Gear",
+        "Category_Id": 8,
+        "Image": "https://i.ibb.co/n7dMdW0/1-gametrig.png",
+        "Price":999
+    },
+    {
+        "Id": 60,
+        "Product_Name": "OnePlus_Urban_Traveler_Backpack",
+        "Product_Id":60,
+        "Category": "Gear",
+        "Category_Id": 8,
+        "Price":3699,
+        "Colour":
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Arctic_White",
+                "Image": "https://i.ibb.co/Lnt9ngP/1-urbantravel.png"
+            },
+            {
+                "Colour_Id":2,
+                "Colour_Name":"Charcoal_Black",
+                "Image": "https://i.ibb.co/wdMX5nT/1-urbantravelblack.png"
+            }
+        ]
+    },
+    {
+        "Id": 61,
+        "Product_Name": "OnePlus_Travel_Backpack",
+        "Product_Id":61,
+        "Category": "Gear",
+        "Category_Id": 8,
+        "Price":3990,
+        "Colour":
+        [
+            {
+                "Colour_Id":1,
+                "Colour_Name":"Space_Black",
+                "Image": "https://i.ibb.co/8X0hgC5/1-travelbackblack.png"
+            },
+            {
+                "Colour_Id":2,
+                "Colour_Name":"Morandi_Gray",
+                "Image": "https://i.ibb.co/JBMRY0d/1-travelback.png"
+            }
+        ]
+    }
+]

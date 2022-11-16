@@ -1,0 +1,42 @@
+[
+    {
+        "Id":1,
+        "Category":"Mobiles",
+        "Category_Id": 1
+    },
+    {
+        "Id":2,
+        "Category":"Tv",
+        "Category_Id": 2
+    },
+    {
+        "Id":3,
+        "Category":"Audio",
+        "Category_Id": 3
+    },
+    {
+        "Id":4,
+        "Category":"Wearables",
+        "Category_Id": 4
+    },
+    {
+        "Id":5,
+        "Category":"Cases_and_Protection",
+        "Category_Id": 5
+    },
+    {
+        "Id":6,
+        "Category":"Bundles",
+        "Category_Id": 6
+    },
+    {
+        "Id":7,
+        "Category":"Power_and_Cables",
+        "Category_Id": 7
+    },
+    {
+        "Id":8,
+        "Category":"Gear",
+        "Category_Id": 8
+    }
+]
